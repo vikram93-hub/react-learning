@@ -1,0 +1,24 @@
+.welcome{
+  font-size: 30px;
+  background-color: rgb(235, 144, 238);
+  color: white;
+  padding: 10px;
+  margin: 10px;
+  border-radius: 10px;
+  background-image: linear-gradient(to right, #ff7e5f, #feb47b);
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+  border: 2px solid #ff7e5f;
+  cursor: pointer;
+  line-height: 1.5;
+}
+
+.login{
+  font-size: 30px;
+  background-color: rgb(144, 238, 144);
+  color: white;
+  padding: 10px;
+  margin: 10px;
+  border-radius: 10px;
+  background-image: linear-gradient(to right, #43cea2, #185a9d);
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
