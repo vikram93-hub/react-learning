@@ -1,0 +1,31 @@
+.fruit-list {
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+  background-color: #a42525;
+  background-image: linear-gradient(to bottom, #ede8e8, #fff8f8);
+  color: #333;
+  border: 1px solid #411111;
+  text-align: center;
+  font-family: 'Courier New', Courier, monospace;
+  font-size: 18px;
+}
+
+.fruit-heading{
+  font-size: 24px;
+  font-weight: bold;
+  margin-bottom: 10px;
+  text-transform: uppercase;
+  text-shadow: 1px 1px 2px #fff;
+  text-align: 20px;
+  padding: 10px;
+  background-color: #f0f0f0;
+  font-family: 'Courier New', Courier, monospace;
+  border-bottom: 1px solid #ccc;
+  border-radius: 2px;
+  box-shadow: 0 2px 4px rgba(224, 143, 143, 0.1);
+  border: 1px solid #411111;
+  background-color: #e98bd0;
+  border-left: 1px solid #411111;
+  
+}
